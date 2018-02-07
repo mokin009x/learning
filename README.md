@@ -3,6 +3,7 @@
 
 ## Terms for Github/Repository
 .Clone
+.Add
 .Commit
 .Push
 .Pull
@@ -12,3 +13,4 @@
 .Checkout
 .Fork
 .Tags
+
